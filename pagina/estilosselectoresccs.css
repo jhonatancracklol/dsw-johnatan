@@ -1,0 +1,161 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div#menu{
+	width:200px:
+	margin-top:50px;
+}
+
+div#menu ul{
+	list-style:none;
+}
+
+div#menu ul li{
+	margin-top:15px;
+	font-family:tahoma;
+	font-size:18px;
+	background-color: #000000;
+	width: 160px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 0px 20px 20px 0px;
+	border: 3px solid #ffA500;
+	padding-left: 20px;
+	box-shadow: 5px 5px 10px #999;
+	-webkit-trasition:padding-left 0.6s:
+	color:#ffffff;
+}
+
+div#menu ul li:hover{
+	padding-left:50px;
+}
+
+
+body {
+	background-color: ;
+	background-image: url("fondos.jpg");
+	
+	}
+
+ 
+
+header   {
+	width: 90%;
+	heigh: 10%;
+	background: #000000; 
+	margin: 45px auto;
+	padding:15 px;
+	border:3px solid #ffA500;
+	border-radius: 20px 5px 15px 5px;
+	box-shadow:#999 5px 5px 5px;
+	}
+
+
+header h1,nav{
+	display:inline-block;
+	vertical-align:middle;
+		}
+h1	{
+	font:bold 36px verdana, geneva, sans-serif;
+	text-shadow: #ffA500 3px 3px 5px;
+	color: #ffffff;
+	
+        }
+nav li{
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+	}
+a	{
+	text-decoration: none;
+	}
+nav ul a{
+	color: #fff;
+	font-family: Arial, Helvetica, verdana;
+	font-sixe:1.2em;
+	background: #000000; 
+	padding: 5px 15px;
+	border-radius: 5px 0px 5px 0px;
+	border: 3px solid #ffA500;
+
+	}
+nav ul a:hover{
+	color: #fff;
+	font-family: arial, Helvetica, verdana;
+	font-size: 1.2em;
+	background: #999:
+	padding: 8px 15px;
+	border-radius: 5px 0px 5px 0px;
+	border: 1px dashed #000;
+
+	}
+
+header nav	{
+		width: 65%;
+		}
+
+header h1{
+	width:30%;
+	}
+	
+
+header nav{
+	width: 65%
+	}
+header h1{
+	width:20%
+	
+	}
+	#fotoprincipal{
+	margin:0 auto;
+	width: 90%;
+	height: 100%;
+	text-align:center;
+	padding:10px;
+	}
+	img{
+	max-width: 500%
+	}
+#infoprincipal{
+	background: #FFFACD;
+	border-radius: 10px;
+	border: 3px solid #ffA500;
+	heigh: 100%;
+	margin: 0 auto;
+	padding:7px 10px;
+	width: 65%;
+	text-align: center;
+	box-shadow: #999 5px 5px 5px;
+	}
+
+#infoprincipal p{
+	font-family: verdana;
+	color: #ffA500;
+	font-size: 20pt;
+	text-align: center;
+	}
+	
+#colorletra p{
+	font-family: verdana;
+	color: #000000;
+	font-size: 11pt;
+	text-align: center;
+}
+
+span{
+	font-famyly:helvetica, verdana;
+	color:#ffA500;
+	font-size: 18pt;
+	}
+
+footer{
+	font-family:helvetica, verdana;
+	color:#ffdd90;
+	font-size: 13pt;
+	text-align:center;
+	}
+
+
+	
